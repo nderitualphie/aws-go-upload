@@ -1,3 +1,4 @@
+//iterate over local folder contents and upload to contabo bucket
 package main
 
 import (
